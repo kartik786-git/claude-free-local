@@ -1,3 +1,5 @@
+<img width="1675" height="796" alt="image" src="https://github.com/user-attachments/assets/4f55c158-9fbc-4481-ab42-a3e0068c3219" />
+
 # 3D Solar System
 
 An interactive 3D solar system visualization built with Three.js. Explore the Sun and all eight planets with realistic procedural textures, orbital mechanics, and detailed planetary data.
